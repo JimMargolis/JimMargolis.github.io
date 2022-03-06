@@ -1,5 +1,5 @@
 {
-    "movies": {
+    "movies": [
         "5": {
             "actors": [
                 3129, 
@@ -1407,8 +1407,8 @@
             ], 
             "title": "Broken Arrow"
         }
-    }, 
-    "actors": {
+    ], 
+    "actors": [
         "2048": "Gary Busey", 
         "3": "Harrison Ford", 
         "5251": "Jack Warden", 
@@ -2222,5 +2222,5 @@
         "65529": "Irene Bedard", 
         "88059": "Tommy Davidson", 
         "143358": "Li Xuejian"
-    }
+    ]
 }
